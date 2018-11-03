@@ -14,9 +14,12 @@ Direkter [Link zum Kalender](https://calendar.google.com/calendar/embed?src=6bv0
 ### Variante 3 : Nutzung in der eigenen Kalender App
 
 Sie können jeden Termin einzeln in ihren eigenen Kalender kopieren oder den ganzen Kalender kopieren oder den Kalender abonnieren.
+
 Wenn Sie einzelne Termine kopieren möchten wählen Sie den gewünschten Termin aus und wählen dann den Kopieren Link in diesem Termin.
+
 Wenn Sie den ganzen Kalender kopieren möchten können Sie diesen [Link des Kalenders im iCal Format](https://calendar.google.com/calendar/ical/6bv0rouvmt2h28q2p4tpvrkob8%40group.calendar.google.com/public/basic.ics) benutzen.
 Sie erhalten alle Termine als Download und Ihr Bertiebssystem sollte ihnen den Import in ihre bevorzugte Kalender App anbieten.
+
 Wenn Sie Google Calendar benutzen können Sie diesen Kalender auch abonnieren und so jeden Termin und jede Terminänderung automatisch übermittelt bekommen. Öffnen Sie dazu ihren [eigenen Kalender](https://calendar.google.com) und wählen dann "Weitere Kalender hinzufügen +" und "Per URL". Dann können Sie diesen [Link des Kalenders im iCal Format](https://calendar.google.com/calendar/ical/6bv0rouvmt2h28q2p4tpvrkob8%40group.calendar.google.com/public/basic.ics) einfügen und so den Kalender abonnieren.
 
 ```markdown

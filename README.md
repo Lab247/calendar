@@ -15,7 +15,7 @@ Direkter [Link zum Kalender](https://calendar.google.com/calendar/embed?src=6bv0
 
 Sie können jeden Termin einzeln in ihren eigenen Kalender kopieren oder den ganzen Kalender kopieren.
 Wenn Sie einzelne Termine kopieren möchten wählen Sie den gewünschten Termin aus und wählen dann die Kopieren Schaltfläche.
-Wenn Sie den ganzen Kalender kopieren möchten wählen Sie diesen [Link den Kalenders im iCal Format](https://calendar.google.com/calendar/ical/6bv0rouvmt2h28q2p4tpvrkob8%40group.calendar.google.com/public/basic.ics).
+Wenn Sie den ganzen Kalender kopieren möchten wählen Sie diesen [Link des Kalenders im iCal Format](https://calendar.google.com/calendar/ical/6bv0rouvmt2h28q2p4tpvrkob8%40group.calendar.google.com/public/basic.ics).
 
 ```markdown
 code block für den WebDesigner

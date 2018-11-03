@@ -33,7 +33,7 @@ code block für den WebDesigner
 
 https://calendar.google.com/calendar/embed?src=6bv0rouvmt2h28q2p4tpvrkob8%40group.calendar.google.com&ctz=Europe%2FBerlin
 
-# Link zum Kalender im iCal Format.
+# Link zum Kalender im iCal Format
 
 https://calendar.google.com/calendar/ical/6bv0rouvmt2h28q2p4tpvrkob8%40group.calendar.google.com/public/basic.ics
 ```
